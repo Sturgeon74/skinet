@@ -2,3 +2,8 @@ obj
 bin
 appsettings.json
 *.db
+*ReSharper*
+API/API.csproj.user
+.vs/skinet/v16/.suo
+.vs/skinet/DesignTimeBuild/.dtbcache.v2
+.vs/skinet/config/applicationhost.config
